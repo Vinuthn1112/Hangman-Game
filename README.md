@@ -1,1 +1,2 @@
 # Hangman-Game
+This Python script implements a Hangman game using Pygame. It sets up the game interface with letter buttons, displays the hangman image, and allows users to guess letters by clicking buttons. The game randomly selects a word from a predefined list, tracks guessed letters, and updates the display accordingly. Players win by guessing the word before the hangman is fully drawn, and they have the option to play again or quit after the game ends.
